@@ -20,12 +20,12 @@ Check `_raylib.sublime-build`
 - maze)
 
 TODO:
-[x] render grid
-[ ] sudoku generator logic
-	[ ] basics
-	[ ] difficulties
-	[ ] techniques
-[ ] selecting number (number paint)
-	[ ] pencil marks
-	[ ] highlighting selected number
-[ ] distinction between given numbers and user-input
+- [x] render grid
+- [ ] sudoku generator logic
+	- [ ] basics
+	- [ ] difficulties
+	- [ ] techniques
+- [ ] selecting number (number paint)
+	- [ ] pencil marks
+	- [ ] highlighting selected number
+- [ ] distinction between given numbers and user-input
