@@ -19,7 +19,7 @@ Check `_raylib.sublime-build`
 - combat
 - maze)
 
-TODO:
+## TODO
 - [x] render grid
 - [ ] sudoku generator logic
 	- [ ] basics
