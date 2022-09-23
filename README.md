@@ -25,7 +25,7 @@ Check `_raylib.sublime-build`
 	- [ ] basics
 	- [ ] difficulties
 	- [ ] techniques
-- [ ] selecting number (number paint)
-	- [ ] pencil marks
-	- [ ] highlighting selected number
-- [ ] distinction between given numbers and user-input
+- [ ] pencil marks
+- [x] selecting number (number paint)
+- [x] highlighting selected number
+- [x] distinction between given numbers and user-input
